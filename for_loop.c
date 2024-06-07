@@ -27,7 +27,7 @@ int main() {
     // ####################################################################################
 
     
-    // Example 1
+    // Example 2
     // Let's build a programm which will
     // get any number from output and calculates sum of the numbers from 0 to output number
 
